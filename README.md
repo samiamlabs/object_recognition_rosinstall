@@ -1,5 +1,5 @@
 mkdir ws && cd ws
-wstool init src https://raw.github.com/wg-perception/object_recognition_core/master/doc/source/ork.rosinstall.kinetic.plus
+wstool init src https://github.com/samiamlabs/object_recognition_rosinstall/raw/master/ork.rosinstall.kinetic
 cd src && wstool update -j8
 cd .. && rosdep install --from-paths src -i -y
 catkin_make
