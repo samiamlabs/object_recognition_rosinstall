@@ -3,7 +3,7 @@
 - git: {local-name: ecto_openni, uri: "https://github.com/plasmodic/ecto_openni"}
 - git: {local-name: ecto_opencv, uri: "https://github.com/plasmodic/ecto_opencv"}
 - git: {local-name: ecto_pcl, uri: "https://github.com/plasmodic/ecto_pcl"}
-- git: {local-name: ecto_ros, uri: "https://github.com/plasmodic/ecto_ros"}
+- git: {local-name: ecto_ros, uri: "https://github.com/samiamlabs/ecto_ros.git"}
 - git: {local-name: opencv_candidate, uri: "https://github.com/wg-perception/opencv_candidate"}
 - git: {local-name: ork_core, uri: "https://github.com/samiamlabs/object_recognition_core.git"}
 - git: {local-name: ork_capture, uri: "https://github.com/wg-perception/capture"}
